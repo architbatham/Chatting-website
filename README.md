@@ -1,6 +1,8 @@
 # Chatting-website
 HTML,JACASCRIPT,CSS,PHP chatting website
 This chat website works with the help of LocalHost PHP 
+
+------------------------------------------------------
 ****WORKING****
 --Install Xampp
 --Extract Chatapp into your XAMPP>>htdocs>>
